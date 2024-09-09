@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+spacy
+en-core-web-sm-mirror
+wordcloud
+scikit-learn
+gensim
+cloudpickle

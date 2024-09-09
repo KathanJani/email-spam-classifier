@@ -1,0 +1,5 @@
+# Conda virtual environment
+.cvenv
+
+# Notebook checkpoints
+.ipynb_checkpoints
